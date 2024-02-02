@@ -10,12 +10,9 @@
     <link rel="stylesheet" href="assets/vendors/css/vendor.bundle.base.css">
     <!-- endinject -->
     <!-- Plugin css for this page -->
-    <link rel="stylesheet" href="assets/vendors/jvectormap/jquery-jvectormap.css">
-    <link rel="stylesheet" href="assets/vendors/flag-icon-css/css/flag-icon.min.css">
-    <link rel="stylesheet" href="assets/vendors/owl-carousel-2/owl.carousel.min.css">
-    <link rel="stylesheet" href="assets/vendors/owl-carousel-2/owl.theme.default.min.css">
-    
-    <!-- End plugin css for this page -->  
+    <link rel="stylesheet" href="assets/vendors/select2/select2.min.css">
+    <link rel="stylesheet" href="assets/vendors/select2-bootstrap-theme/select2-bootstrap.min.css">
+    <!-- End plugin css for this page -->
     <!-- inject:css -->
     <!-- endinject -->
     <!-- Layout styles -->
@@ -87,17 +84,9 @@
           <li class="nav-item menu-items">
             <a class="nav-link" href="index.html">
               <span class="menu-icon">
-                <i class="mdi mdi-access-point"></i>
+                <i class="mdi mdi-speedometer"></i>
               </span>
               <span class="menu-title">Dashboard</span>
-            </a>
-          </li>
-          <li class="nav-item menu-items">
-            <a class="nav-link" href="listSlider.php">
-              <span class="menu-icon">
-                <i class="mdi mdi-access-point"></i>
-              </span>
-              <span class="menu-title">Slider</span>
             </a>
           </li>
           <li class="nav-item menu-items">
@@ -371,3 +360,5 @@
             </button>
           </div>
         </nav>
+<!-- partial -->
+<div class="main-panel">
